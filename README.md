@@ -78,3 +78,13 @@ newface为输出的脸，
 oldface则是将目标脸换到其他脸的底模，
 
 savepath是作为roop的输出中转
+
+
+
+## 使用docker
+
+可用docker拉取我已经做好的镜像
+
+```
+docker pull relucy/anotherme:latest
+```

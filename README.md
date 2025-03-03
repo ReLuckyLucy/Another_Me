@@ -1,11 +1,28 @@
-# Another_Me
-基于roop与codeFormer的换脸输出
+<div align="center">
+ <img alt="logo" height="300px" src="img\logo.png">
+</div>
+
+
+<h1 align="center">Another_Me</h1>
+<h1 align="center">基于roop与codeFormer的换脸输出</h1>
+
+<p align="center">
+    <img alt="GitHub" src="https://img.shields.io/github/license/ReLuckyLucy/Another_Me">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ReLuckyLucy/Another_Me">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/ReLuckyLucy/Another_Me?include_prereleases">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ReLuckyLucy/Another_Me">
+</p>
+<p align="center">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ReLuckyLucy/Another_Me">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ReLuckyLucy/Another_Me">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/ReLuckyLucy/Another_Me?style=social">
+</p>
 
 ## 简介
 
 基于roop的换脸算法，由于输入的像素值大小在卷积时默认为128 * 128，所以输出的图片作为正常图片使用时会有严重的割裂感
 这时候我们采用codeFormer进行人脸增强，使其输出的图片正常化
-![demo](show/show.png)
+![demo](img/show.png)
 
 
 
